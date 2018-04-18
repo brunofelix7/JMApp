@@ -1,0 +1,16 @@
+<resources>
+
+    <!-- App Name -->
+    <string name="app_name">JMApp</string>
+
+    <!-- FormActivity -->
+    <string name="txt_cadastrar">Cadastrar</string>
+    <string name="txt_nome">Nome</string>
+    <string name="txt_email">E-mail</string>
+    <string name="txt_senha">Senha</string>
+
+    <!-- MainActivity -->
+    <string name="txt_dados_nulos">Nenhum dado encontrado!</string>
+    <string name="txt_dados_erro">Não foi possível carregar os dados!</string>
+
+</resources>
